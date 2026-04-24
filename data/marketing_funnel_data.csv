@@ -1,0 +1,451 @@
+date,channel,campaign,region,visitors,leads,qualified_leads,customers,marketing_spend,revenue
+2025-04-13,LinkedIn,Lead Magnet,East,5991,957,556,170,7641.57,35190
+2025-04-27,LinkedIn,Free Trial Push,Central,1569,270,199,55,3906.61,15400
+2025-02-27,Organic Search,Lead Magnet,West,3704,722,413,100,347.52,39000
+2025-06-24,Organic Search,Free Trial Push,West,2067,477,219,69,156.22,19734
+2025-01-18,LinkedIn,Spring Launch,West,2861,517,315,93,5978.07,45198
+2025-06-21,Email,Free Trial Push,North,2755,671,436,167,447.36,63293
+2025-02-23,Email,AI Webinar,South,961,260,178,79,190.24,26386
+2025-02-09,Email,Lead Magnet,South,1678,549,313,111,440.99,17760
+2025-06-06,Email,Spring Launch,North,3368,1079,582,175,1160.74,35000
+2025-05-16,Instagram,Free Trial Push,North,5274,785,291,45,4840.8,20115
+2025-01-12,Facebook Ads,Spring Launch,Central,3531,693,365,82,2061.1,20500
+2025-01-01,Email,AI Webinar,East,5288,1651,862,334,848.81,157314
+2025-02-21,Email,Festive Offer,Central,2478,788,430,135,463.2,27675
+2025-01-28,Facebook Ads,AI Webinar,Central,2397,469,245,66,1511.55,26730
+2025-03-16,Facebook Ads,Festive Offer,North,4102,938,379,95,2052.49,33440
+2025-01-03,Organic Search,Free Trial Push,North,5213,973,461,126,997.96,62118
+2025-06-09,Google Ads,Festive Offer,North,2653,786,504,145,3177.76,33640
+2025-04-11,Google Ads,Spring Launch,East,2960,879,467,119,3185.13,29155
+2025-05-10,Email,Festive Offer,South,2533,636,403,182,433.88,68068
+2025-02-07,Email,Festive Offer,South,997,271,179,82,144.78,25092
+2025-03-11,Email,Free Trial Push,West,3611,1112,559,224,606.46,105504
+2025-02-21,Google Ads,Spring Launch,South,3719,730,378,100,5726.35,41700
+2025-04-09,LinkedIn,AI Webinar,North,4443,560,419,186,8556.25,51894
+2025-01-09,Google Ads,Free Trial Push,East,3055,878,550,201,4013.13,38994
+2025-04-23,LinkedIn,Festive Offer,East,3983,438,299,83,5612.25,37931
+2025-02-23,Instagram,Lead Magnet,North,4867,1097,381,70,4126.7,17780
+2025-05-25,Google Ads,Festive Offer,East,5365,1136,566,224,5979.18,85792
+2025-01-27,Instagram,AI Webinar,Central,5693,1237,536,139,3063.47,58797
+2025-05-27,LinkedIn,Free Trial Push,North,816,162,104,34,1916.41,16966
+2025-02-06,Email,Spring Launch,Central,1406,485,325,116,303.03,32480
+2025-03-08,Facebook Ads,Spring Launch,South,1369,317,115,21,1327.66,5670
+2025-05-07,Instagram,AI Webinar,South,4857,1111,488,116,2990.43,33524
+2025-01-26,Instagram,AI Webinar,North,3255,812,326,68,2861.07,29920
+2025-01-08,Organic Search,Festive Offer,East,1966,403,188,58,108.9,15776
+2025-03-04,Organic Search,Lead Magnet,South,2515,414,211,64,248.98,24512
+2025-02-22,LinkedIn,Festive Offer,West,804,117,84,26,1394.75,12324
+2025-02-24,LinkedIn,Lead Magnet,South,1435,246,137,47,2530.73,8319
+2025-03-31,Email,AI Webinar,Central,3638,1002,638,198,1362.66,70884
+2025-02-03,Organic Search,Spring Launch,Central,5792,1590,950,293,821.06,107238
+2025-03-17,Facebook Ads,Free Trial Push,Central,3544,570,209,36,2544.55,11628
+2025-05-24,Facebook Ads,AI Webinar,Central,5446,879,389,97,2906.21,35405
+2025-03-10,LinkedIn,AI Webinar,West,4530,680,490,192,6395.52,76608
+2025-03-21,Facebook Ads,Spring Launch,West,1695,332,169,43,1527.8,6536
+2025-06-10,Email,Free Trial Push,East,4713,1163,645,221,1004.71,82212
+2025-02-04,Google Ads,AI Webinar,Central,2425,535,268,86,3284.21,20038
+2025-03-16,Email,Festive Offer,North,4148,1434,874,336,1122.27,116256
+2025-06-26,Instagram,Festive Offer,South,5904,1376,506,136,5402.44,66368
+2025-01-13,Google Ads,Free Trial Push,North,4752,1143,703,209,7206.02,61864
+2025-04-10,LinkedIn,Lead Magnet,North,4971,673,498,196,9083.4,95256
+2025-05-24,Email,Lead Magnet,East,5291,1390,881,396,1785.57,69696
+2025-02-08,Email,Lead Magnet,South,3782,1321,675,301,997.6,135450
+2025-05-26,LinkedIn,Spring Launch,South,1753,283,161,47,3701.04,13583
+2025-05-17,Facebook Ads,Free Trial Push,South,2017,261,95,28,1536.93,12320
+2025-03-27,LinkedIn,Spring Launch,North,2124,372,232,68,4694.66,20468
+2025-06-16,Instagram,AI Webinar,South,4402,675,269,38,2998.63,6726
+2025-05-28,LinkedIn,Lead Magnet,North,2758,481,320,141,4653.66,68808
+2025-06-02,Google Ads,Lead Magnet,South,4427,1316,738,220,3695.31,73040
+2025-06-13,Instagram,Free Trial Push,West,4312,874,372,88,2900.79,43296
+2025-02-23,Organic Search,Free Trial Push,North,5931,1631,752,212,391.53,104304
+2025-01-08,Facebook Ads,Festive Offer,West,4985,830,328,64,3749.92,22208
+2025-06-04,Organic Search,Spring Launch,North,5824,1219,695,183,407.55,28182
+2025-05-14,Facebook Ads,Free Trial Push,Central,2638,607,222,62,2337.56,7688
+2025-04-29,Google Ads,Spring Launch,South,1023,305,160,57,1140.02,24738
+2025-01-27,Google Ads,Lead Magnet,North,2433,448,213,53,2093.08,16748
+2025-04-05,Email,Free Trial Push,Central,4436,1520,1018,355,1043.18,172175
+2025-01-01,Instagram,Lead Magnet,Central,5344,1178,499,94,2501.71,25662
+2025-06-11,Organic Search,Free Trial Push,East,5163,1331,856,200,871.37,46200
+2025-02-16,Email,Lead Magnet,South,2922,723,381,115,599.53,24955
+2025-03-23,Organic Search,Free Trial Push,East,5342,1320,738,215,996.66,32035
+2025-04-16,Instagram,Spring Launch,Central,5692,897,435,90,3158.76,16920
+2025-02-03,Organic Search,Lead Magnet,South,5100,943,533,146,666.01,39420
+2025-03-21,Instagram,Festive Offer,West,2519,477,226,47,2478.36,8460
+2025-05-02,Instagram,Free Trial Push,Central,5924,1074,396,57,4319.95,14364
+2025-01-12,Facebook Ads,AI Webinar,North,5997,957,396,68,5018.3,22644
+2025-02-25,Organic Search,Free Trial Push,Central,5232,1010,617,209,406.41,68134
+2025-02-16,Organic Search,AI Webinar,West,2925,630,377,85,257.01,10710
+2025-01-03,Organic Search,Free Trial Push,West,4145,885,492,127,374.65,18669
+2025-02-08,Google Ads,Spring Launch,South,925,179,112,37,1242.54,6882
+2025-04-19,Facebook Ads,Festive Offer,South,5518,1155,503,89,3855.11,11125
+2025-06-29,Facebook Ads,AI Webinar,East,2775,498,207,60,1402.14,23760
+2025-03-11,LinkedIn,Free Trial Push,North,5654,594,328,130,14114.83,16250
+2025-03-07,LinkedIn,Festive Offer,East,803,80,59,21,1718.23,3801
+2025-03-20,Instagram,AI Webinar,East,1941,437,148,35,1393.45,4200
+2025-03-31,Organic Search,Lead Magnet,East,2826,653,342,100,373.85,25700
+2025-06-21,Facebook Ads,Lead Magnet,South,2419,364,177,47,2218.1,7379
+2025-06-12,Organic Search,Spring Launch,Central,4827,1331,632,212,920.76,41340
+2025-02-04,Google Ads,Festive Offer,Central,4650,1280,627,172,4331.07,21328
+2025-03-24,Instagram,AI Webinar,West,1400,343,129,32,928.87,4256
+2025-02-01,Instagram,Lead Magnet,North,5942,1144,475,90,3772.51,38520
+2025-04-14,Instagram,Free Trial Push,East,2002,360,118,29,1545.63,10150
+2025-06-04,LinkedIn,Lead Magnet,North,1920,327,230,69,2814.54,30429
+2025-01-10,Email,Free Trial Push,South,3712,866,525,197,880.12,59691
+2025-01-15,Email,Lead Magnet,Central,3171,995,640,274,977.25,112614
+2025-01-26,Instagram,Free Trial Push,Central,4906,1251,460,79,3209.3,36735
+2025-02-15,Instagram,Festive Offer,South,2988,468,149,26,2496.94,7540
+2025-04-10,LinkedIn,Lead Magnet,Central,926,106,70,26,1621.77,3848
+2025-02-09,Google Ads,Free Trial Push,North,3661,762,368,102,5381.64,12240
+2025-03-04,Organic Search,Free Trial Push,Central,4302,716,370,128,218.09,52480
+2025-03-04,LinkedIn,Spring Launch,South,2922,561,360,130,6995.24,32110
+2025-06-20,Instagram,Festive Offer,East,2005,323,129,25,1902.56,7400
+2025-01-29,Instagram,AI Webinar,West,3920,632,311,50,2543.2,9100
+2025-04-14,Google Ads,Spring Launch,Central,1789,483,237,91,1724.8,36764
+2025-02-18,Email,Lead Magnet,East,2865,739,475,192,745.86,44544
+2025-04-24,Organic Search,Free Trial Push,West,4135,1089,696,194,374.68,94090
+2025-06-11,LinkedIn,Spring Launch,West,2623,450,306,87,3904.5,32538
+2025-03-13,Organic Search,Spring Launch,Central,4475,843,396,102,708.57,24378
+2025-02-15,Instagram,Festive Offer,West,964,151,57,10,435.88,4490
+2025-01-07,Google Ads,Lead Magnet,East,4495,906,513,160,6806.05,67520
+2025-05-28,Instagram,AI Webinar,South,5602,1181,417,94,3616.91,32054
+2025-05-17,Facebook Ads,Lead Magnet,West,4377,926,350,98,3681.94,32732
+2025-05-08,Google Ads,AI Webinar,East,4080,865,482,166,4105.75,60590
+2025-01-22,Instagram,Festive Offer,South,1241,307,134,31,1108.9,7657
+2025-03-26,Facebook Ads,Festive Offer,North,2881,537,257,70,1856.79,33670
+2025-03-27,Email,Free Trial Push,North,1445,455,250,106,358.77,30952
+2025-05-25,Facebook Ads,Lead Magnet,West,5597,1020,366,67,5690.04,28542
+2025-02-05,Instagram,AI Webinar,Central,948,227,87,23,789.61,8073
+2025-02-23,Facebook Ads,Lead Magnet,North,2585,319,128,31,1385.56,15004
+2025-06-03,Facebook Ads,Lead Magnet,North,3143,651,292,74,2528.16,11692
+2025-02-04,Instagram,AI Webinar,Central,5003,1117,395,87,3084.77,14181
+2025-02-18,Email,Spring Launch,South,4440,1234,662,270,1606.76,103410
+2025-05-29,Google Ads,Lead Magnet,North,4526,1191,548,192,3780.71,25920
+2025-05-25,Facebook Ads,Lead Magnet,South,1190,147,71,14,1365.02,6076
+2025-03-23,Organic Search,Festive Offer,East,5297,1179,682,220,554.62,49940
+2025-02-14,Facebook Ads,Free Trial Push,Central,3783,654,281,67,4020.51,8241
+2025-04-03,Organic Search,Spring Launch,Central,3569,793,424,152,401.96,52592
+2025-06-19,Facebook Ads,Free Trial Push,Central,4012,666,357,60,2032.64,8880
+2025-03-03,Email,Festive Offer,North,1071,357,248,112,241.33,53536
+2025-03-25,Email,Spring Launch,North,2850,800,447,210,896.8,86520
+2025-06-02,Google Ads,Lead Magnet,North,5294,1197,701,198,8258.48,35640
+2025-06-20,LinkedIn,Free Trial Push,Central,5667,697,514,200,11277.66,97000
+2025-03-15,Instagram,AI Webinar,North,3065,442,217,55,2698.62,9515
+2025-02-16,Google Ads,Spring Launch,East,5939,1778,861,266,8353.74,48146
+2025-05-25,Instagram,Free Trial Push,Central,1692,345,144,31,769.68,6944
+2025-03-08,Instagram,Festive Offer,Central,2018,513,242,61,1600.57,23180
+2025-05-19,Instagram,AI Webinar,West,1774,249,109,16,1276.5,2496
+2025-03-01,Email,Festive Offer,Central,5868,1940,1162,460,1629.67,140300
+2025-03-08,Facebook Ads,Free Trial Push,Central,2112,476,242,61,2313.5,10858
+2025-02-17,Google Ads,Lead Magnet,East,3404,897,525,179,4773.0,22554
+2025-05-13,Instagram,Lead Magnet,South,3608,517,240,37,2168.67,10249
+2025-02-08,Facebook Ads,Festive Offer,South,1388,251,88,17,1293.41,3944
+2025-01-17,Facebook Ads,Festive Offer,Central,5570,754,306,49,4470.31,21462
+2025-06-05,LinkedIn,Lead Magnet,Central,1077,208,143,41,1713.78,5576
+2025-01-12,Organic Search,Spring Launch,South,1685,339,194,44,304.53,13684
+2025-06-24,Email,Festive Offer,West,1562,370,241,73,166.57,18469
+2025-04-21,Instagram,Free Trial Push,South,4409,701,275,74,2033.94,11692
+2025-01-15,Email,Lead Magnet,East,2623,605,384,165,477.33,75240
+2025-05-06,LinkedIn,Festive Offer,Central,4916,938,676,300,10756.81,112800
+2025-02-27,LinkedIn,AI Webinar,Central,2655,495,343,128,4813.49,18688
+2025-03-13,LinkedIn,Spring Launch,North,4476,795,559,236,9799.45,110448
+2025-06-21,Email,Festive Offer,South,3746,914,541,162,1047.0,57510
+2025-03-25,LinkedIn,Spring Launch,North,5909,783,523,184,14652.29,60352
+2025-03-13,Email,AI Webinar,South,2189,758,488,210,716.06,46410
+2025-06-18,Instagram,Free Trial Push,North,3248,494,204,29,2239.22,6119
+2025-05-28,Google Ads,AI Webinar,South,801,195,122,32,1169.15,8736
+2025-05-30,Facebook Ads,AI Webinar,South,5038,725,278,48,4763.43,11616
+2025-05-14,Google Ads,Spring Launch,North,1515,431,255,94,1623.41,34780
+2025-05-07,Instagram,Festive Offer,West,4261,1014,395,90,3050.2,43290
+2025-01-14,Instagram,AI Webinar,West,2934,639,252,57,1752.8,20349
+2025-04-10,Email,Lead Magnet,Central,5590,1261,671,204,1654.52,31824
+2025-04-06,Google Ads,Free Trial Push,East,3771,769,450,117,3109.27,55224
+2025-05-15,LinkedIn,Spring Launch,Central,958,135,97,37,2065.41,5143
+2025-06-01,Facebook Ads,Spring Launch,East,5503,1048,372,80,5086.6,36320
+2025-06-11,LinkedIn,AI Webinar,East,2194,281,174,60,3961.39,8400
+2025-05-23,Google Ads,Free Trial Push,South,4391,1003,572,197,4822.54,23837
+2025-04-29,Email,Lead Magnet,Central,5448,1373,925,359,1386.22,72877
+2025-05-10,Organic Search,Spring Launch,East,4728,1306,655,212,467.02,59996
+2025-02-14,Instagram,AI Webinar,East,1429,229,92,17,1282.28,6392
+2025-05-13,LinkedIn,Free Trial Push,West,3160,368,214,61,6817.14,19703
+2025-06-14,Google Ads,Spring Launch,West,3003,851,477,157,2484.53,71121
+2025-05-10,Google Ads,Lead Magnet,West,1081,199,94,29,1672.42,12876
+2025-06-10,Google Ads,Free Trial Push,West,5385,1226,669,236,4382.87,79296
+2025-02-19,Email,Spring Launch,East,4049,1071,649,211,566.11,90097
+2025-03-21,Facebook Ads,AI Webinar,West,5270,735,284,74,3211.09,35298
+2025-01-05,Organic Search,AI Webinar,North,3274,792,435,138,590.42,48438
+2025-04-23,LinkedIn,Free Trial Push,North,5709,1095,733,322,12987.35,136206
+2025-03-10,Google Ads,AI Webinar,West,4833,1449,666,264,5439.67,77880
+2025-01-13,Google Ads,Lead Magnet,Central,4030,1082,677,210,4278.35,46410
+2025-01-19,Organic Search,AI Webinar,South,1800,356,222,62,170.15,12896
+2025-05-23,Google Ads,Festive Offer,South,5606,1388,730,242,7159.92,83006
+2025-02-04,LinkedIn,AI Webinar,East,3815,636,428,153,6461.55,61353
+2025-03-13,Facebook Ads,Festive Offer,Central,1977,263,99,23,1329.04,7981
+2025-01-15,Instagram,AI Webinar,West,5786,1171,543,108,5427.43,25488
+2025-05-04,Google Ads,Festive Offer,East,4946,926,589,178,4358.1,87576
+2025-02-21,Organic Search,Free Trial Push,Central,905,211,125,32,101.39,14848
+2025-04-04,Instagram,Festive Offer,South,5958,1209,534,82,4411.23,34194
+2025-02-05,LinkedIn,Festive Offer,North,2508,409,302,115,5680.48,38295
+2025-05-17,Facebook Ads,Spring Launch,South,5879,995,515,147,4393.94,40131
+2025-04-01,Email,Festive Offer,South,4483,1233,781,249,1287.33,89889
+2025-03-10,Google Ads,Free Trial Push,West,2049,485,270,74,2151.08,20646
+2025-01-11,Facebook Ads,Spring Launch,Central,1240,222,121,21,1223.39,9282
+2025-02-11,Organic Search,Lead Magnet,North,5894,1184,726,229,592.84,93203
+2025-06-16,Email,Festive Offer,Central,5248,1561,905,337,1065.7,106155
+2025-01-13,Google Ads,Festive Offer,South,5851,1615,802,265,8800.27,44785
+2025-03-08,Organic Search,Festive Offer,Central,4953,990,578,219,739.36,71832
+2025-02-04,Facebook Ads,Festive Offer,West,4419,1040,496,131,2736.84,29475
+2025-06-07,Google Ads,Festive Offer,North,2731,813,443,136,2446.6,31824
+2025-04-14,Organic Search,Lead Magnet,West,4743,1196,596,195,303.26,68250
+2025-02-01,Google Ads,Lead Magnet,West,2323,615,281,83,2347.37,15355
+2025-04-15,Email,AI Webinar,East,3296,856,495,192,923.47,82560
+2025-01-06,Instagram,Free Trial Push,West,1043,172,83,12,928.76,4920
+2025-06-07,Facebook Ads,Free Trial Push,West,872,138,48,8,572.49,2600
+2025-01-20,Facebook Ads,AI Webinar,North,2785,378,197,56,2342.03,12824
+2025-03-21,Organic Search,Lead Magnet,West,3746,1027,631,206,255.72,29664
+2025-03-20,LinkedIn,Lead Magnet,West,5023,719,440,161,8897.57,70035
+2025-05-14,Email,Free Trial Push,South,5979,1598,922,380,941.9,176320
+2025-05-10,Organic Search,Free Trial Push,South,2750,669,432,111,196.18,49728
+2025-06-05,Organic Search,Free Trial Push,West,1408,311,201,70,200.33,29890
+2025-02-21,LinkedIn,Festive Offer,South,2308,435,278,87,3873.03,18357
+2025-01-14,Email,Lead Magnet,Central,5405,1363,717,275,1822.03,73700
+2025-05-18,Facebook Ads,Lead Magnet,North,3884,471,187,55,4121.22,16060
+2025-06-09,LinkedIn,Spring Launch,East,5392,834,534,226,7157.92,90626
+2025-02-03,LinkedIn,Festive Offer,South,5639,1021,686,292,9643.32,47012
+2025-05-21,Google Ads,Spring Launch,North,3991,869,510,160,4005.91,20640
+2025-02-27,LinkedIn,Lead Magnet,West,1514,226,141,50,2263.51,23100
+2025-03-29,Email,Free Trial Push,Central,2948,666,338,151,877.65,40921
+2025-01-17,Email,Festive Offer,Central,5127,1363,762,281,1704.19,41307
+2025-02-20,Instagram,AI Webinar,Central,1572,344,155,27,648.56,13149
+2025-03-22,Google Ads,Spring Launch,South,3793,687,344,99,3244.55,33264
+2025-05-02,Organic Search,AI Webinar,South,2996,524,285,67,368.22,18693
+2025-04-05,LinkedIn,AI Webinar,East,1321,176,129,41,2224.32,17794
+2025-03-19,LinkedIn,AI Webinar,North,4497,873,522,156,6550.83,45708
+2025-04-23,Email,Free Trial Push,South,2367,618,417,146,623.01,39128
+2025-05-21,Organic Search,Lead Magnet,West,2559,463,258,97,487.77,39188
+2025-01-13,Facebook Ads,AI Webinar,Central,5108,1057,542,102,4362.73,21114
+2025-02-13,Email,Free Trial Push,Central,2524,799,497,159,367.17,23691
+2025-02-08,LinkedIn,Spring Launch,Central,1161,180,128,51,2723.57,11373
+2025-03-05,Facebook Ads,AI Webinar,East,3320,619,307,75,2096.97,17325
+2025-01-13,Google Ads,Festive Offer,West,3081,835,381,137,2963.87,67952
+2025-01-20,Instagram,Free Trial Push,East,1924,298,112,25,1670.49,8650
+2025-06-03,Email,Lead Magnet,Central,2885,697,373,140,636.71,26600
+2025-01-04,Email,Free Trial Push,Central,5231,1304,835,259,1286.72,71743
+2025-03-23,Instagram,Festive Offer,West,3762,751,236,34,2259.24,5066
+2025-02-27,Organic Search,Lead Magnet,West,2866,609,292,79,329.88,20935
+2025-03-04,LinkedIn,Spring Launch,East,1275,221,165,72,2595.05,22824
+2025-01-04,LinkedIn,Free Trial Push,West,874,152,112,35,1691.38,8995
+2025-02-19,Instagram,Lead Magnet,East,4496,945,394,93,4306.13,15810
+2025-05-27,Facebook Ads,Free Trial Push,South,5476,1210,468,127,4494.32,48260
+2025-04-10,Organic Search,AI Webinar,West,5533,1368,751,217,882.11,96565
+2025-02-10,Organic Search,Festive Offer,West,5083,1056,670,198,264.37,95634
+2025-04-16,Organic Search,Festive Offer,East,2774,745,372,98,454.69,22050
+2025-03-11,LinkedIn,Spring Launch,Central,2519,263,177,66,4155.59,19602
+2025-06-10,Instagram,AI Webinar,East,1971,306,145,28,1767.44,13860
+2025-05-08,Organic Search,Spring Launch,Central,3161,877,420,141,248.7,59784
+2025-05-27,Instagram,Spring Launch,Central,5279,1351,454,64,4392.15,28544
+2025-03-27,Google Ads,Spring Launch,Central,1372,388,230,59,1874.52,8024
+2025-04-08,Organic Search,AI Webinar,North,5748,1016,592,150,371.52,39450
+2025-04-22,Instagram,Lead Magnet,West,1143,267,86,16,1127.95,5792
+2025-03-04,Google Ads,Lead Magnet,West,1977,434,260,85,1905.64,28220
+2025-03-20,Organic Search,Festive Offer,West,1581,298,160,60,262.13,11100
+2025-06-02,Organic Search,Free Trial Push,West,2377,522,245,79,411.97,23463
+2025-06-20,Instagram,Lead Magnet,East,5674,933,377,67,4968.79,18961
+2025-03-26,Google Ads,AI Webinar,South,5363,1324,639,218,5848.25,87636
+2025-04-24,Instagram,Spring Launch,West,4000,576,214,51,3568.91,11220
+2025-01-04,Organic Search,Free Trial Push,North,4758,1313,700,264,714.59,102432
+2025-06-11,LinkedIn,Festive Offer,South,2394,278,153,57,4514.17,22800
+2025-05-28,Facebook Ads,AI Webinar,Central,1026,146,76,20,901.4,6600
+2025-03-01,LinkedIn,Spring Launch,East,3790,625,383,123,8584.47,23985
+2025-01-30,Facebook Ads,Lead Magnet,West,4631,604,298,65,5250.41,27690
+2025-06-24,Facebook Ads,AI Webinar,East,3126,608,255,70,2594.27,27300
+2025-04-01,Instagram,Spring Launch,West,3740,827,301,71,1652.27,22720
+2025-05-28,LinkedIn,Spring Launch,East,1241,187,114,36,1542.74,8496
+2025-02-15,LinkedIn,Festive Offer,West,5446,984,552,238,11142.51,60214
+2025-05-31,Instagram,Free Trial Push,South,3397,568,213,33,2200.09,14949
+2025-03-25,Google Ads,Spring Launch,South,2550,498,294,116,3725.12,45704
+2025-01-28,LinkedIn,Lead Magnet,North,3610,587,385,149,6443.11,35611
+2025-06-15,Email,Lead Magnet,West,3312,832,418,164,630.54,52808
+2025-02-22,Instagram,Spring Launch,East,3181,729,225,59,2899.03,28320
+2025-05-05,Organic Search,Spring Launch,Central,1885,481,219,68,375.71,11492
+2025-05-29,Email,Festive Offer,Central,2786,789,510,206,305.89,31724
+2025-03-06,Email,Festive Offer,West,1326,395,268,104,374.1,44304
+2025-02-07,LinkedIn,Spring Launch,Central,5074,627,409,121,8625.11,22506
+2025-03-27,LinkedIn,AI Webinar,South,3194,556,362,140,4127.32,38080
+2025-05-25,Email,Festive Offer,South,5178,1233,684,338,1032.51,121680
+2025-04-09,Organic Search,Free Trial Push,Central,5596,899,405,103,310.62,51397
+2025-04-07,Facebook Ads,Lead Magnet,Central,2768,404,173,28,1922.31,12964
+2025-02-06,Google Ads,Spring Launch,North,1655,403,252,84,1363.28,26124
+2025-01-11,Organic Search,Free Trial Push,East,2156,585,282,79,343.84,15089
+2025-04-19,LinkedIn,Lead Magnet,North,4172,716,530,213,9686.32,62409
+2025-03-28,Organic Search,Lead Magnet,North,2675,648,306,86,316.81,17286
+2025-05-27,LinkedIn,Festive Offer,North,4608,647,397,161,8001.69,65044
+2025-04-15,Facebook Ads,AI Webinar,East,2666,511,230,41,1548.99,6478
+2025-01-28,Instagram,Festive Offer,East,5524,1371,429,92,2680.7,18400
+2025-06-18,Organic Search,Festive Offer,East,3082,672,379,86,210.96,14448
+2025-05-07,Google Ads,Spring Launch,West,3124,821,440,154,3187.43,37114
+2025-01-30,LinkedIn,Festive Offer,South,2623,478,344,149,4617.22,71371
+2025-03-16,Facebook Ads,Free Trial Push,North,1941,397,193,41,1197.21,5166
+2025-06-14,Google Ads,Spring Launch,West,4073,1048,605,182,3492.07,44590
+2025-05-19,Google Ads,Spring Launch,Central,1729,485,274,91,1528.79,21112
+2025-04-19,Facebook Ads,Lead Magnet,East,4450,1048,447,73,2321.43,25769
+2025-02-20,Facebook Ads,Free Trial Push,Central,1710,305,114,31,1298.37,7533
+2025-04-11,Instagram,Festive Offer,South,3216,484,203,32,1346.1,10976
+2025-01-22,LinkedIn,Lead Magnet,Central,3152,482,281,90,7218.44,14490
+2025-04-08,Email,Free Trial Push,South,1140,301,166,81,304.74,17091
+2025-01-24,Email,Free Trial Push,Central,1934,630,341,155,619.6,70835
+2025-04-14,Organic Search,Spring Launch,South,3634,669,353,79,440.92,22357
+2025-04-28,Instagram,Free Trial Push,Central,1066,194,75,10,903.45,1240
+2025-01-20,Google Ads,AI Webinar,West,1682,396,255,82,2507.59,24764
+2025-04-12,Instagram,Spring Launch,East,5610,1403,522,126,5254.73,42588
+2025-03-23,LinkedIn,Free Trial Push,West,1702,332,195,58,3931.88,26448
+2025-03-22,Google Ads,Spring Launch,East,3290,604,389,110,4563.97,25630
+2025-01-22,Email,Free Trial Push,East,4437,1280,801,343,1534.93,98784
+2025-06-01,Instagram,Spring Launch,East,4914,806,402,61,1972.43,11346
+2025-03-06,LinkedIn,Spring Launch,Central,3758,429,300,123,7726.83,30258
+2025-01-01,LinkedIn,Free Trial Push,South,3975,556,386,126,8322.17,60102
+2025-03-16,Instagram,Free Trial Push,West,4844,1229,386,105,3456.42,14175
+2025-03-07,Google Ads,AI Webinar,South,5345,1417,826,232,7967.9,77488
+2025-04-30,Organic Search,Free Trial Push,Central,2388,623,348,88,131.46,15136
+2025-01-19,Google Ads,Spring Launch,North,982,236,127,42,1276.43,7182
+2025-05-28,Facebook Ads,AI Webinar,West,1811,283,115,27,1057.57,4806
+2025-01-08,Facebook Ads,Festive Offer,South,5745,1257,621,122,4490.94,43920
+2025-04-03,Facebook Ads,AI Webinar,North,4214,800,354,73,4881.14,32047
+2025-06-06,LinkedIn,Free Trial Push,North,3424,386,255,108,6654.04,49356
+2025-05-23,Instagram,Lead Magnet,East,3024,560,272,63,1420.11,21231
+2025-06-06,Google Ads,Festive Offer,East,4600,1216,548,150,6304.01,19800
+2025-04-11,Google Ads,Festive Offer,East,4323,1142,581,154,6162.26,39886
+2025-02-06,Facebook Ads,Spring Launch,Central,3387,758,337,59,3197.66,20414
+2025-04-15,LinkedIn,Spring Launch,Central,3057,474,300,120,5143.43,34200
+2025-02-23,Organic Search,Spring Launch,West,3468,868,396,112,657.61,46032
+2025-01-18,Instagram,Festive Offer,West,1739,325,143,24,1624.45,8904
+2025-01-13,Google Ads,Spring Launch,South,5963,1144,672,192,9116.56,72384
+2025-03-22,LinkedIn,AI Webinar,East,1186,166,108,41,1438.5,11890
+2025-06-02,LinkedIn,AI Webinar,West,3077,542,347,112,4571.64,23632
+2025-01-27,Organic Search,Lead Magnet,South,3022,776,367,96,159.06,26112
+2025-02-02,Facebook Ads,Festive Offer,North,4509,849,393,99,3985.36,34353
+2025-04-21,Instagram,Spring Launch,East,5120,1089,390,65,2515.95,14495
+2025-06-06,Google Ads,Lead Magnet,South,4076,1099,598,154,6383.96,36652
+2025-05-13,LinkedIn,AI Webinar,East,4671,502,312,99,6794.36,47619
+2025-01-26,Google Ads,AI Webinar,East,1260,349,201,61,1687.52,26840
+2025-02-18,LinkedIn,Festive Offer,North,3406,361,248,98,8207.74,19894
+2025-02-21,Google Ads,Free Trial Push,North,3793,820,493,149,5914.26,24585
+2025-05-14,Organic Search,AI Webinar,South,3149,667,306,75,367.9,26550
+2025-04-18,Google Ads,Spring Launch,East,3180,773,408,142,2821.02,26554
+2025-04-09,LinkedIn,Free Trial Push,South,3293,516,310,109,6492.58,46870
+2025-04-12,Organic Search,AI Webinar,South,2083,540,322,89,322.34,37202
+2025-03-21,Facebook Ads,AI Webinar,Central,3209,568,280,54,3043.51,8532
+2025-03-22,Instagram,Festive Offer,South,885,187,87,21,554.18,5775
+2025-06-19,Instagram,Lead Magnet,South,5767,1394,621,95,3790.19,47120
+2025-04-03,Instagram,Festive Offer,Central,1996,307,109,21,1899.63,5208
+2025-06-09,Google Ads,Lead Magnet,North,4706,1068,641,248,7344.86,52080
+2025-03-31,Organic Search,Spring Launch,South,5580,1060,596,165,828.6,38445
+2025-01-01,Facebook Ads,AI Webinar,Central,4499,554,286,75,2969.73,23400
+2025-05-25,Organic Search,AI Webinar,Central,2760,756,428,124,378.16,27032
+2025-03-17,Facebook Ads,Free Trial Push,East,1932,313,165,48,2173.1,12048
+2025-01-23,Facebook Ads,Festive Offer,South,3475,502,201,40,3181.92,6600
+2025-06-05,Organic Search,Spring Launch,East,1070,284,153,35,186.19,10780
+2025-06-13,Facebook Ads,Lead Magnet,South,3875,535,280,65,2703.71,25870
+2025-04-19,Email,Lead Magnet,North,1624,481,246,91,514.71,26117
+2025-05-15,Organic Search,Lead Magnet,Central,5107,958,431,145,996.0,22765
+2025-06-13,Google Ads,Lead Magnet,Central,4214,1066,670,249,4223.49,80925
+2025-05-06,Instagram,Festive Offer,Central,1109,233,100,15,805.91,4815
+2025-02-01,Instagram,AI Webinar,North,1776,451,139,24,1351.42,5520
+2025-06-02,Instagram,Lead Magnet,Central,3600,725,291,55,3455.12,11385
+2025-04-14,Instagram,Spring Launch,South,966,233,85,12,416.48,2304
+2025-05-21,Organic Search,Festive Offer,West,3092,812,479,161,415.29,48622
+2025-03-06,Google Ads,Free Trial Push,South,4654,1120,590,227,3783.0,36774
+2025-04-26,Instagram,AI Webinar,North,2093,504,161,35,1466.47,17360
+2025-06-26,Instagram,Lead Magnet,North,2276,514,242,39,2002.88,10374
+2025-03-21,Instagram,Free Trial Push,South,4531,1002,425,78,4031.89,33696
+2025-03-13,Organic Search,Free Trial Push,South,3862,1037,469,153,223.13,35496
+2025-01-12,Organic Search,Lead Magnet,East,2724,551,316,86,435.58,38958
+2025-03-10,Organic Search,Free Trial Push,North,849,179,105,28,49.66,4648
+2025-06-16,LinkedIn,Spring Launch,Central,4565,791,453,186,10138.18,68262
+2025-05-28,Email,AI Webinar,South,5256,1826,937,378,808.42,47250
+2025-02-27,Email,Festive Offer,North,2788,682,420,143,713.48,27170
+2025-05-11,Facebook Ads,AI Webinar,North,1007,197,90,23,604.96,9522
+2025-06-06,Organic Search,Festive Offer,East,3400,581,331,105,500.74,44940
+2025-02-03,Organic Search,Free Trial Push,East,4649,995,581,182,599.09,32396
+2025-01-02,Email,Festive Offer,North,3442,804,426,208,1104.75,34736
+2025-05-29,Instagram,Festive Offer,South,3261,722,275,39,2444.95,16536
+2025-05-17,LinkedIn,Free Trial Push,North,4291,740,498,202,6346.68,57570
+2025-05-25,Facebook Ads,AI Webinar,East,2901,461,243,41,3089.66,19926
+2025-01-15,LinkedIn,Lead Magnet,East,872,125,93,29,1666.34,4640
+2025-06-19,Facebook Ads,Festive Offer,Central,4551,903,463,77,5179.33,14014
+2025-04-20,Email,Free Trial Push,South,3050,852,550,231,920.68,105567
+2025-04-04,Facebook Ads,AI Webinar,East,3166,586,228,56,3229.37,27720
+2025-04-01,Organic Search,Free Trial Push,South,3356,772,430,113,353.28,34013
+2025-02-06,Google Ads,AI Webinar,East,3617,924,461,164,4130.91,38212
+2025-04-17,Email,Festive Offer,South,862,222,130,39,164.05,14625
+2025-05-15,Email,Free Trial Push,West,4078,1046,672,203,907.9,44863
+2025-02-07,Email,Lead Magnet,Central,2832,691,437,208,974.88,42224
+2025-03-24,Instagram,Festive Offer,Central,995,249,96,20,550.16,3600
+2025-03-04,Facebook Ads,Festive Offer,North,3391,736,373,92,2582.12,39836
+2025-02-08,Google Ads,Spring Launch,Central,936,177,108,32,1139.37,12160
+2025-06-19,Google Ads,Festive Offer,East,3742,947,456,160,3530.21,26400
+2025-04-26,Email,Spring Launch,Central,5345,1545,1016,365,1402.59,119720
+2025-05-06,Instagram,AI Webinar,East,5529,1009,323,55,3934.08,8085
+2025-01-11,Organic Search,Free Trial Push,West,3210,728,388,111,420.95,49839
+2025-06-17,Facebook Ads,Spring Launch,Central,1745,277,127,30,899.55,10740
+2025-02-17,Google Ads,Lead Magnet,Central,3772,877,566,184,3362.47,73784
+2025-02-18,Instagram,AI Webinar,North,1620,377,159,41,1302.4,13366
+2025-01-29,Email,Free Trial Push,South,1967,435,280,113,690.09,23165
+2025-03-21,Google Ads,Free Trial Push,West,3794,812,451,147,5525.88,57330
+2025-05-11,Instagram,Lead Magnet,North,2055,291,103,17,873.77,2125
+2025-04-14,LinkedIn,Festive Offer,West,3672,727,465,170,9128.53,23630
+2025-05-03,Facebook Ads,Lead Magnet,East,802,129,54,9,608.48,1611
+2025-04-26,Instagram,AI Webinar,East,4106,984,460,88,3199.37,38368
+2025-02-17,Google Ads,Festive Offer,North,1049,257,142,42,1407.74,13776
+2025-04-09,Email,Free Trial Push,West,4412,1192,753,278,958.4,92852
+2025-05-11,Email,AI Webinar,West,1289,380,238,78,312.17,30264
+2025-01-11,Organic Search,Free Trial Push,North,1754,461,287,96,283.91,43680
+2025-03-22,Facebook Ads,AI Webinar,South,1170,255,122,33,807.72,13629
+2025-06-15,Instagram,Lead Magnet,North,5051,987,351,81,4516.91,15633
+2025-05-12,Organic Search,Festive Offer,South,4740,1183,567,144,566.9,20304
+2025-03-11,Email,Lead Magnet,East,2340,706,474,216,535.15,104760
+2025-06-06,Email,AI Webinar,South,3178,1034,663,327,1105.93,84693
+2025-02-12,Email,Free Trial Push,Central,3305,729,432,178,631.95,69064
+2025-04-23,Instagram,Festive Offer,East,4570,1105,421,59,2047.97,24190
+2025-03-27,Organic Search,AI Webinar,North,1791,352,167,50,90.99,6100
+2025-03-26,Email,AI Webinar,East,3384,774,485,216,1024.8,38880
+2025-06-20,Google Ads,Festive Offer,East,3702,1078,685,206,4524.37,89404
+2025-05-13,Instagram,Lead Magnet,West,3017,681,285,42,2030.01,11508
+2025-02-24,Organic Search,AI Webinar,East,3124,736,339,109,612.73,32809
+2025-05-30,Instagram,Spring Launch,West,2478,407,125,27,1664.59,7047
+2025-06-27,LinkedIn,AI Webinar,North,1174,137,87,31,2455.32,8835
+2025-05-11,LinkedIn,AI Webinar,Central,3820,605,433,168,4974.12,32592
+2025-04-18,Instagram,Festive Offer,Central,5191,870,420,95,2843.48,41515
+2025-01-07,Email,Free Trial Push,East,4127,1338,935,286,1523.73,102388
+2025-04-29,Google Ads,Lead Magnet,West,5840,1520,955,282,7250.37,61194
+2025-06-27,LinkedIn,AI Webinar,South,1562,229,138,41,2214.51,8323
+2025-05-11,Email,Spring Launch,West,2903,697,377,160,481.64,28000
+2025-03-01,Facebook Ads,Festive Offer,North,1436,224,122,22,1620.91,10054
+2025-06-15,Organic Search,AI Webinar,East,2811,657,316,93,469.67,22971
+2025-06-01,Instagram,Festive Offer,West,4016,775,385,75,3329.71,22500
+2025-01-09,Organic Search,Lead Magnet,North,1487,335,217,70,118.79,30660
+2025-06-16,Email,Spring Launch,North,4935,1324,713,283,1591.5,127633
+2025-06-21,Organic Search,Free Trial Push,West,1026,262,124,41,115.34,14063
+2025-03-03,Email,Lead Magnet,North,2832,687,421,175,699.18,37450
+2025-02-23,LinkedIn,Festive Offer,North,3692,613,354,133,5319.62,45353
+2025-06-05,Instagram,Lead Magnet,South,1519,264,128,35,1128.25,10640
+2025-01-06,Organic Search,Free Trial Push,South,5282,1411,730,245,718.26,108780
+2025-02-21,Google Ads,Spring Launch,Central,3609,875,496,179,4687.31,41707
+2025-06-26,LinkedIn,Festive Offer,Central,1136,130,83,28,1501.69,4956
+2025-03-13,Facebook Ads,Free Trial Push,Central,4557,880,470,126,4160.37,43848
+2025-06-05,Google Ads,Lead Magnet,South,3605,834,474,189,5103.09,64260
+2025-04-04,Facebook Ads,Lead Magnet,East,2447,393,177,43,2783.28,13803
+2025-04-18,Email,Festive Offer,North,2648,733,489,162,284.64,35154
+2025-01-09,LinkedIn,Spring Launch,Central,5912,950,575,177,10013.02,62127
+2025-02-11,Organic Search,Free Trial Push,East,3462,606,366,94,524.87,43240
+2025-06-17,Organic Search,AI Webinar,Central,1292,334,185,63,110.03,16254
+2025-03-29,Google Ads,Lead Magnet,East,2273,591,376,108,2930.29,28728
+2025-01-28,Facebook Ads,Lead Magnet,East,4597,704,286,84,2331.59,34188
+2025-04-15,LinkedIn,Festive Offer,East,2178,248,151,64,2865.57,27072
+2025-02-09,Google Ads,Festive Offer,South,4805,900,421,115,6132.0,56810
+2025-05-22,Email,Spring Launch,South,2073,457,233,112,609.99,53648
+2025-01-10,Instagram,Free Trial Push,Central,2777,702,320,65,2552.0,10595
+2025-01-26,Facebook Ads,AI Webinar,West,5035,1153,475,121,3474.87,25168
+2025-03-07,Organic Search,Free Trial Push,South,5044,1067,657,157,808.24,77087
+2025-02-07,Email,AI Webinar,South,3725,1108,650,216,502.78,40824
+2025-04-23,Instagram,Festive Offer,West,890,224,103,22,706.85,3498
+2025-05-18,Google Ads,Festive Offer,North,4583,1279,780,207,5781.39,89010
