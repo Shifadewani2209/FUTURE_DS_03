@@ -1,3 +1,8 @@
+<img width="1899" height="970" alt="image" src="https://github.com/user-attachments/assets/0a500798-fb8e-414f-aa09-eefc7e3707d0" />
+<img width="1889" height="973" alt="image" src="https://github.com/user-attachments/assets/698be26f-eaf4-48d6-b066-50b2089acc10" />
+<img width="1900" height="962" alt="image" src="https://github.com/user-attachments/assets/792e501a-6eb3-470f-815c-9cd0c164e25d" />
+
+
 # FUTURE_DS_03 - Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
