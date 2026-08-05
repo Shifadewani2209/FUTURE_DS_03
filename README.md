@@ -3,18 +3,13 @@
 <img width="1900" height="962" alt="image" src="https://github.com/user-attachments/assets/792e501a-6eb3-470f-815c-9cd0c164e25d" />
 
 
-# FUTURE_DS_03 - Marketing Funnel & Conversion Performance Analysis
+# Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
 
 This project analyzes marketing funnel data to identify conversion drop-offs, channel performance, campaign efficiency, and opportunities to improve lead-to-customer conversion.
 
 The dashboard is built using Python and Streamlit and provides a client-ready view of funnel performance with KPIs, funnel visualization, drop-off analysis, channel ROI, campaign performance, and actionable recommendations.
-
-## Internship Track
-
-Data Science & Analytics  
-Task 3: Marketing Funnel & Conversion Performance Analysis
 
 ## Objective
 
